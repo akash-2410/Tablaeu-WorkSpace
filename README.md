@@ -4,4 +4,4 @@
  
 ## Screenshots
 
-![Screenshot of the DashBoard](Book1DAImages/Screenshot 2024-05-29 125804.png)
+(Book1DAImages/Screenshot 2024-05-29 125804.png)
